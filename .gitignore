@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editör
+.idea/
+.vscode/
+*.swp
+
+# Netlify
+.netlify/
+
+# NOT: Bu repo PUBLIC. Buraya asla Firebase anahtarı, service account,
+# .env ya da uygulama kaynak kodu koyma. Sadece statik tanıtım sitesi.
+.env*
+*serviceAccount*.json
